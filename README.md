@@ -1,1 +1,1 @@
-IT service desk image iis used for creating servicedektop shortcut 
+IT service desk image is used for creating servicedektop shortcut 
